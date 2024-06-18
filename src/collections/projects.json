@@ -1,0 +1,20 @@
+[
+	{
+		"name": "handwritten numeral recognition system",
+		"description": "Based on t-SNE, k-means, knn",
+		"image": "/assets/images/projects/tsne.png",
+		"url": "https://github.com/MarvelousCrystal/Development-and-implementation-of-handwritten-numeral-recognition-system-based-on-T-SNE"
+	},
+	{
+		"name": "DNS.Surf",
+		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
+		"image": "/assets/images/projects/dns.surf.png",
+		"url": "https://github.com/MarvelousCrystal/RelationExtract_KG"
+	},
+	{
+		"name": "HTML.ZONE",
+		"description": "Web Toolbox.",
+		"image": "/assets/images/projects/html.zone.png",
+		"url": "https://html.zone"
+	}
+]
